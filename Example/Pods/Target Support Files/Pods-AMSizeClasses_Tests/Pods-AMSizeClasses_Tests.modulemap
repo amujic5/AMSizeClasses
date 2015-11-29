@@ -1,0 +1,6 @@
+framework module Pods_AMSizeClasses_Tests {
+  umbrella header "Pods-AMSizeClasses_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

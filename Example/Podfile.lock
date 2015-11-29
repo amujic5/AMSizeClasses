@@ -1,0 +1,14 @@
+PODS:
+  - AMSizeClasses (0.1.0)
+
+DEPENDENCIES:
+  - AMSizeClasses (from `../`)
+
+EXTERNAL SOURCES:
+  AMSizeClasses:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AMSizeClasses: 52f861aeb4b516fb73aa7cabea98249776650ac6
+
+COCOAPODS: 0.39.0

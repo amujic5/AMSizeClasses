@@ -1,0 +1,6 @@
+framework module AMSizeClasses {
+  umbrella header "AMSizeClasses-umbrella.h"
+
+  export *
+  module * { export * }
+}
